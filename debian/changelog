@@ -1,4 +1,4 @@
-python-snappy (0.5.2-1) unstable; urgency=medium
+python-snappy (0.5.1-1) unstable; urgency=medium
 
   * New upstream release.
   * Add supported Python3 versions field.
