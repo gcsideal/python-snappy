@@ -18,6 +18,7 @@ Architecture: any
 Depends: ${misc:Depends},
          ${python:Depends},
          ${shlibs:Depends},
+Provides: ${python:Provides}
 Description: snappy compression library from Google - Python 2.7
  Snappy is a compression/decompression library. It does not aim for
  maximum compression, or compatibility with any other compression
@@ -31,6 +32,7 @@ Architecture: any
 Depends: ${misc:Depends},
          ${python3:Depends},
          ${shlibs:Depends},
+Provides: ${python3:Provides}
 Description: snappy compression library from Google - Python 3.x
  Snappy is a compression/decompression library. It does not aim for
  maximum compression, or compatibility with any other compression
