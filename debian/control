@@ -11,6 +11,7 @@ Build-Depends: debhelper (>= 9),
                python3-setuptools,
 Standards-Version: 3.9.8
 Homepage: http://github.com/andrix/python-snappy
+X-Python3-Version: >= 3.5
 
 Package: python-snappy
 Architecture: any
